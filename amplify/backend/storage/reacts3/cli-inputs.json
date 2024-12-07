@@ -1,0 +1,14 @@
+{
+  "resourceName": "reacts3",
+  "policyUUID": "3f8998ab",
+  "bucketName": "amplifys373accc6d3db1414796428425f2c8e5af",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
