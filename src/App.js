@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
-import { Auth } from 'aws-amplify';
+import { Amplify } from 'aws-amplify';
+import { Auth } from '@aws-amplify/auth';
+//import { Auth } from 'aws-amplify';
 import axios from 'axios';
 
 const App = () => {
